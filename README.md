@@ -1,4 +1,4 @@
-<h1>Museum</h1>
+<h1>Museum</h1>.
 
 [TAP PREVIEW LINK TO SEE DEMO](https://zarva6596.github.io/Museum/)
 <br>
