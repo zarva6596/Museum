@@ -1,6 +1,8 @@
 <h1>Museum</h1>
 
 [TAP PREVIEW LINK TO SEE DEMO](https://zarva6596.github.io/Museum/)
+<br>
+[CODE](https://github.com/zarva6596/Museum/tree/develop)
 
 <h3>Technologies:</h3>
 
