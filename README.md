@@ -19,7 +19,7 @@ Figma design: [link](https://www.figma.com/file/NWD38mUnijAtiz3HrX3zgW/%D0%9D%D0
 
 Demonstration: [link](https://zarva6596.github.io/Museum/)
 
-<h3>My Contacts<:/h3>
+<h3>My Contacts:</h3>
 <h2>Roman Zarvanskyi</h2>
 
 <h4>Ukraine</h4>
